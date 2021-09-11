@@ -35,7 +35,7 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "空ける" => "unwrap",
         "デフォ" => "default",
         "入出力" => "io",
-        "外" => "extern",
+        "外部" => "extern",
         "偽" => "false",
         "関数" => "fn",
         "親" => "super",

@@ -10,7 +10,7 @@ In Japanese version https://github.com/bnjbvr/rouille. Shamelessly copied and up
 
 ```rust
 sabi::sabi! {
-    外 クレート sabi;
+    外部 クレート sabi;
 
     関数 メイン() {
         書き出す!("こんにちは、世界");
