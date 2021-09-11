@@ -64,6 +64,7 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "使う" => "use",
         "真" => "true",
         "列挙" => "enum",
+        "文字列に変換する" => "to_string",
 
         _ => &ident_str,
     };
