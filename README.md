@@ -1,5 +1,7 @@
 # sabi
 
+![sabi](images/logo.png)
+
 In Japanese version https://github.com/bnjbvr/rouille. Shamelessly copied and updated from it.
 
 Aren't you 疲れた from writing Rust programs in English? Do you like saying "くだらない" a lot? Would you like to try something different, in an exotic and funny-sounding language? Would you want to bring some Japanese touch to your programs?
