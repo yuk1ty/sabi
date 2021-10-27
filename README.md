@@ -20,7 +20,7 @@ Here's an example of what can be achieved with sabi:
 
 ```rust
 sabi::sabi! {
-    外部 クレート sabi;
+    外部 箱 sabi;
 
     関数 メイン() {
         書き出す!("こんにちは、世界");

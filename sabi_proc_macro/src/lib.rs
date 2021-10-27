@@ -24,7 +24,7 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "待つ" => "await",
         "ループ" => "loop",
         "ムーブ" => "move",
-        "クレート" => "crate",
+        "箱" => "crate",
         "として" => "as",
         "定数" => "const",
         "マッチ" => "match",
