@@ -48,6 +48,7 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "新" => "new",
         "条件" => "where",
         "繰り返し" => "for",
+        "に対して" => "for",
         "取得または挿入" => "get_or_insert_with",
         "メイン" => "main",
         "公開" => "pub",
