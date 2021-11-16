@@ -7,3 +7,9 @@ edition = "2018"
 
 [dependencies]
 sabi = { path = "../sabi_proc_macro/" }
+
+[[bin]]
+name = "example"
+
+[[bin]]
+name = "language"
