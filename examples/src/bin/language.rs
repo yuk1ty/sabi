@@ -1,3 +1,5 @@
+#![allow(dead_code)]
+
 sabi::sabi! {
     外部 箱 sabi;
 
